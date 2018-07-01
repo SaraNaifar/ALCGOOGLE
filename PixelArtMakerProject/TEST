@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pixel Art Maker!</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Monoton">
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body>
+  
+        <input id="testbutton" type="submit" onclick="myFunction()" >
+    <p id="demo"></p>
+
+ <script src="designs.js"></script>
+
+</body>
+</html>
+																					
